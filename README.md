@@ -1,7 +1,6 @@
 # Atividade M.A.P.A
 
-
-A criação de um branch é uma prática fundamental no controle de versão de um repositório, conforme representado no diagrama. Inicialmente, o repositório possui um branch principal, geralmente denominado "main", considerado a versão definitiva do código. Ao criar um novo branch, como exemplificado no diagrama pelo "feature", os desenvolvedores podem explorar e implementar novas funcionalidades sem impactar diretamente o código principal.
+A criação de um branch é uma prática fundamental no controle de versão de um repositório. Inicialmente, o repositório possui um branch principal, geralmente denominado "main", considerado a versão definitiva do código. Ao criar um novo branch, como exemplificado no diagrama pelo "feature", os desenvolvedores podem explorar e implementar novas funcionalidades sem impactar diretamente o código principal.
 
 A sequência de atividades começa com a criação do branch a partir do "main", criando uma cópia independente para o desenvolvimento paralelo. Durante o processo, alterações são feitas e registradas no branch "feature". Posteriormente, essas modificações passam por fases como "Fazer commit de alterações", onde são registradas no histórico do branch. Em seguida, o desenvolvedor envia uma "solicitação de pull", propondo a fusão das alterações ao branch principal.
 
