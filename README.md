@@ -1,4 +1,4 @@
-# aula15JUN
+# Atividade M.A.P.A
 exemplificarIC
 
 A criação de um branch é uma prática fundamental no controle de versão de um repositório, conforme representado no diagrama. Inicialmente, o repositório possui um branch principal, geralmente denominado "main", considerado a versão definitiva do código. Ao criar um novo branch, como exemplificado no diagrama pelo "feature", os desenvolvedores podem explorar e implementar novas funcionalidades sem impactar diretamente o código principal.
